@@ -8,4 +8,4 @@ first time setup in Windows PC
 
 Lines test for udemy learn
 
-this is the line may have conflict
+this is the line may have conflict. Lines for merge rebasing test
