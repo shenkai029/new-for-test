@@ -7,3 +7,5 @@ try to test how this would affect remote repo.
 first time setup in Windows PC
 
 Lines test for udemy learn
+
+Lines for merge rebasing test
