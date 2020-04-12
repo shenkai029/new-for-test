@@ -5,3 +5,5 @@ test to compare local master and origin master
 add this line for merge test
 
 let me change this line
+
+Add this line to test rebase
