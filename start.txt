@@ -9,3 +9,5 @@ let me change this line
 Add this line to test rebase
 
 this line is to test rebase confilict in master branch
+
+This line is for rebase conflict test in rebase branch
