@@ -7,3 +7,5 @@ add this line for merge test
 let me change this line
 
 Add this line to test rebase
+
+this line is to test rebase confilict in master branch
