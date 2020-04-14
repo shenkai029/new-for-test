@@ -1,17 +1,17 @@
 The threat is global and our enemies latch on to grievances on behalf of the entire Muslim world, so we must work to resolve the long-standing problems that fuel those grievances,¡± Benjamin said. 
 
-He now recommenced his moody walk, and I raised the latch, and escaped into the kitchen. 
+He now recommenceddsd his moody walk, and I raised the latch, and escaped into the kitchen. 
 
 try to test how this would affect remote repo.
 
 first time setup in Windows PC
 
-Lines test for udemy learn
+Lines test for udemy learnsdssd
 
 this is the line may have conflict. Lines for merge rebasing test
 
-adding this line for rebasing test
+adding this linefsdfs for rebasing test
 
 adding this line for rebasing test #2
 
-adding this line for pull --rebase test in master
+adding this line for pullsdfdsfs --rebase test in master
